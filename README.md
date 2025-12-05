@@ -45,45 +45,67 @@ Her bölüm bir sonrakine temel oluşturur ve toplam **151 farklı örnek / algo
 
 ### 🔹 **01 – Temel C++**  
 **12 temel örnek**
+
 ----
+
 ### 🔹 **02 – Fonksiyon & Pointer**  
 **10 örnek**
+
 ----
+
 ### 🔹 **03 – Pointer & Bellek Yönetimi**  
 **15 örnek**
+
 ---
+
 ### 🔹 **04 – OOP Temelleri**  
 **8 örnek**
+
 ----
+
 ### 🔹 **05 – İleri OOP**  
 **10 örnek**
+
 ----
+
 ### 🔹 **06 – Veri Yapıları**  
 📌 20 dizi algoritması  
 📌 8 linked list algoritması  
 📌 9 sıralama algoritması  
 ➡️ **Toplam: 37 algoritma**
+
 ---
+
 ### 🔹 **07 – C++ Kolaylıkları**  
 📌 10 integer algoritması  
 📌 10 string algoritması  
 📌 10 vector uygulaması  
 ➡️ **Toplam: 30 örnek**
+
 ---
+
 ### 🔹 **08 – Hata Ayıklama**  
 **5 örnek**
+
 ----
+
 ### 🔹 **09 – Modern CMake**  
 **4 proje**
+
 ---
+
 ### 🔹 **10 – OpenCV**  
 📌 10 görüntü işleme uygulaması  
 📌 11 video akış uygulaması  
 ➡️ **Toplam: 21 örnek**
+
 ---
+
 ### 🔹 **11 – LibTorch**  
 **8 örnek / proje**
+
 ---
+
 ### 🔹 **12 – Perception Node**  
 📌 5 tam algılama projesi  
 📌 ImageFrame & DetectedObject yapıları  
@@ -91,6 +113,7 @@ Her bölüm bir sonrakine temel oluşturur ve toplam **151 farklı örnek / algo
 📌 CIFAR10 & YOLO inference pipeline  
 
 ---
+
 ### **📌 Genel Toplam**
 **12 bölüm – 151 uygulama / algoritma / proje**
 
