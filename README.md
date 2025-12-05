@@ -136,13 +136,6 @@ Bu akış şeması, `12-perception-node` bölümünde geliştirilen projelerin t
 - **Orta Katman:** Preprocess + Inference + Postprocess  
 - **Çıkış:** Tespit edilen nesneler + görselleştirme  
 
----
-
-## 🧠 Bu Repo Kimler İçin?
-- C++ öğrenip gerçek dünyada uygulamak isteyenler  
-- Görüntü işleme + derin öğrenmeyi C++ ile birleştirmek isteyenler  
-- Model inference tarafında uzmanlaşmak isteyenler  
-- Otonom sürüş, savunma, robotik gibi perception odaklı alanlara hazırlananlar  
 
 ---
 
