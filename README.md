@@ -33,27 +33,37 @@ Hedef, basit kodlardan çıkıp **gerçek bir algılama pipeline’ı** gelişti
 
 ---
 
-## 📌 Bölüm Detayları
+## 🧩 Öğrenme Yolculuğu – Katmanlı Yapı
+
+Aşağıdaki yapı, C++ temelinden başlayıp gerçek zamanlı bir algılama modülüne (Perception Node) uzanan öğrenme akışını göstermektedir.  
+Her bölüm bir sonrakine temel oluşturur ve toplam **151 farklı örnek / algoritma / proje** içerir.
+
+---
 
 ### **01 – Temel C++**  
-C++ sözdizimi, giriş/çıkış, veri tipleri, koşullar, döngüler.  
 **12 temel örnek**
 
-### **02 – Fonksiyonlar & Pointer**  
-Value/reference, pointer mantığı.  
+---
+
+### **02 – Fonksiyon & Pointer**  
 **10 örnek**
 
-### **03 – Pointer Arithmetic & Bellek**  
-Pointer arithmetic, dynamic memory, smart pointer temeli.  
+---
+
+### **03 – Pointer & Bellek Yönetimi**  
 **15 örnek**
 
+---
+
 ### **04 – OOP Temelleri**  
-Class, constructor, destructor, encapsulation.  
 **8 örnek**
 
+---
+
 ### **05 – İleri OOP**  
-Inheritance, polymorphism, virtual functions, move semantics.  
 **10 örnek**
+
+---
 
 ### **06 – Veri Yapıları**  
 - 20 dizi algoritması  
@@ -61,29 +71,49 @@ Inheritance, polymorphism, virtual functions, move semantics.
 - 9 sıralama algoritması  
 **Toplam: 37 algoritma**
 
+---
+
 ### **07 – C++ Kolaylıkları**  
-10 int algoritması, 10 string algoritması, 10 vector uygulaması.  
-**Toplam: 30 uygulama**
+- 10 integer algoritması  
+- 10 string algoritması  
+- 10 vector uygulaması  
+**Toplam: 30 örnek**
+
+---
 
 ### **08 – Hata Ayıklama**  
-Try/catch, istisna yönetimi.  
 **5 örnek**
 
-### **09 – CMake**  
-Modern proje yapısı ve bağımlılık ekleme.  
+---
+
+### **09 – Modern CMake**  
 **4 proje**
 
+---
+
 ### **10 – OpenCV**  
-10 görüntü işleme + 11 video akış uygulaması.  
-**Toplam: 21 OpenCV uygulaması**
+- 10 görüntü işleme uygulaması  
+- 11 video akış uygulaması  
+**Toplam: 21 örnek**
+
+---
 
 ### **11 – LibTorch**  
-TorchScript model yükleme, tensor işlemleri, inference pipeline.  
-**8 LibTorch uygulaması**
+**8 örnek / proje**
+
+---
 
 ### **12 – Perception Node**  
-ImageFrame, DetectedObject, PerceptionNode, CIFAR10 inference, YOLO realtime detection.  
-**5 algılama projesi**
+- 5 tam algılama projesi  
+- ImageFrame, DetectedObject, PerceptionNode tasarımları  
+- CIFAR10 & YOLO inference pipeline  
+
+---
+
+### **📌 Genel Toplam**
+**12 bölüm – 151 uygulama / algoritma / proje**
+
+Bu katmanlı yapı, temel programlama becerilerinden başlayıp gerçek zamanlı algılama sistemi geliştirme seviyesine ulaşan uçtan uca bir mühendislik yolculuğunu temsil eder.
 
 ---
 
