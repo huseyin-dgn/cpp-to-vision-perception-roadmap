@@ -1,0 +1,14 @@
+# 📘 BÖLÜM 1 – Temel C++
+
+Bu bölümde:
+
+1. VS Code + C++ çalışma ortamını kuracağız.  
+2. C++ programının temel yapısını (`main`, `#include`, `return`) göreceğiz.  
+3. Ekrana yazı yazmayı (`std::cout`) deneyeceğiz.  
+4. Klavyeden veri almayı (`std::cin`) kullanacağız.  
+5. Temel veri tiplerini (`int`, `double`, `bool`, `char`, `std::string`) tanıyacağız.  
+6. Basit if/else ile karar yapıları kuracağız.  
+7. İki sayının ve hız değerlerinin ortalamasını hesaplayan fonksiyonlar yazacağız.  
+8. Mini “Araç Telemetri Giriş Sistemi v1” konsol uygulamasını yazacağız.  
+9. Döngüleri (`for`, `while`, `do-while`) öğreneceğiz.  
+10. Mini menülü “Telemetri v1.5” uygulamasını oluşturacağız.

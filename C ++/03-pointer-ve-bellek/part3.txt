@@ -1,0 +1,36 @@
+📄 Bölüm 3 – Pointer Arithmetic, Array–Pointer Mantığı, Dynamic Memory ve Smart Pointer’lar
+
+Bu bölümde:
+
+1) Pointer arithmetic mantığını öğreneceğiz.
+      - p++, p + i, *(p + i) ile bellek üzerinde gezinme
+
+2) Array ve pointer arasındaki gerçek ilişkiyi anlayacağız.
+      - array = &array[0] mantığı
+      - pointer ile dizi dolaşma
+
+3) Fonksiyon pointer’larını inceleyeceğiz.
+      - fonksiyon adresi tutma
+      - pointer üzerinden fonksiyon çağırma
+
+4) Void pointer yapısını göreceğiz.
+      - türsüz pointer
+      - tür dönüşümü ile kullanım
+
+5) Struct ile pointer kullanımını öğreneceğiz.
+      - struct pointer
+      - ptr->uyex mantığı
+
+6) Dynamic memory yönetimini işleyeceğiz.
+      - new / delete
+      - heap bellek
+      - memory leak kavramı
+
+7) Modern C++ smart pointer’larına giriş yapacağız.
+      - unique_ptr
+      - shared_ptr
+      - weak_ptr
+
+8) Stack ve Heap memory farklarını netleştireceğiz.
+
+9) Pointer’ın otomotiv, OpenCV ve ROS2 tarafındaki kullanım örneklerini göreceğiz.

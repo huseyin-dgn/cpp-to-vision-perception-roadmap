@@ -1,0 +1,21 @@
+##  Derleme adımları (aynı ritüel) ## 
+
+PowerShell:
+
+        cd "Proje_2"
+        mkdir build
+        cd build
+
+        cmake ..
+        cmake --build .
+
+
+Sonra:
+
+        ./Proje_2.exe
+
+
+Beklenen çıktı:
+
+        x = 7
+        ikiyle_carp(x) = 14

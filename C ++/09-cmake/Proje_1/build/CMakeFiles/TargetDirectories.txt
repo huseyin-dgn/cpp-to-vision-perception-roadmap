@@ -1,0 +1,3 @@
+C:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 9 ( CMake )/Proje_1/build/CMakeFiles/Proje1.dir
+C:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 9 ( CMake )/Proje_1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 9 ( CMake )/Proje_1/build/CMakeFiles/ZERO_CHECK.dir

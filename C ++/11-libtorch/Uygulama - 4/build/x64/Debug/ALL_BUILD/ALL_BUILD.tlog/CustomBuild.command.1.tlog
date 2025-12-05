@@ -1,0 +1,10 @@
+^C:\USERS\HDGN5\ONEDRIVE\MASAÜSTÜ\C ++\BÖLÜM - 11 ( LIBTORCH )\UYGULAMA - 4\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 4" "-BC:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 4/build" --check-stamp-file "C:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 4/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

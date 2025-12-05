@@ -1,0 +1,10 @@
+^C:\USERS\HDGN5\ONEDRIVE\MASAÜSTÜ\C ++\BÖLÜM - 11 ( LIBTORCH )\UYGULAMA - 7\BUILD\CMAKEFILES\93EA940A75C4C025BF9DFDF994E640B7\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 7" "-BC:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 7/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 7/build/cifar10_libtorch_inference.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

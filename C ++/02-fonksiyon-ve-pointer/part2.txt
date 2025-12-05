@@ -1,0 +1,19 @@
+📄 Bölüm 2 – Fonksiyon Derinliği, Referans Mantığı, Value vs Reference, Temel Pointer Giriş
+
+Bu bölümde:
+
+1) Fonksiyonlarda değer (value) ve referans (reference) farkını öğreneceğiz.
+2) “&” operatörünün gerçekten ne yaptığını derinlemesine anlayacağız.
+3) Fonksiyonlara değişken aktarma modellerini göreceğiz:
+      - Value (kopya)
+      - Reference (takma ad)
+      - Const reference (değiştirilemez referans)
+4) Bellek adresi (memory address) nedir? Basitçe bakacağız.
+5) Pointer (işaretçi) kavramına giriş yapacağız.
+6) Pointer ile referans farkını kavrayacağız.
+7) Küçük bir bellek-düşündüren mini proje yapacağız:
+      - Değer geçirme
+      - Referans geçirme
+      - Pointer ile değişiklik yapma
+8) Telemetri uygulamasında referans kullanımını neden tercih ettiğimizi açıklayacağız.
+9) İlerideki pointer + dynamic memory derslerine zemin hazırlayacağız.

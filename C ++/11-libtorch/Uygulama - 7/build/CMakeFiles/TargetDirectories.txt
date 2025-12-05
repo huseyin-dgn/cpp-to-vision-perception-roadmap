@@ -1,0 +1,3 @@
+C:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 7/build/CMakeFiles/model_test.dir
+C:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 7/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hdgn5/OneDrive/Masaüstü/C ++/Bölüm - 11 ( LibTorch )/Uygulama - 7/build/CMakeFiles/ZERO_CHECK.dir

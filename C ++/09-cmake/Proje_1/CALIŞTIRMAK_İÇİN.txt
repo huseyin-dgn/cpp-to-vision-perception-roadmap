@@ -1,0 +1,60 @@
+Bu ikiliyle:
+
+        mkdir build
+        cd build
+
+        cmake ..
+        cmake --build .
+
+dediğimiz zaman proje derlenecektir.
+
+Bu işlemleri denemeden önce bilgisayarınızda CMake kurulu olduğundan emin olun.
+Kontrolu şu şekilde yapınız :
+                cmake --version
+
+Eğer hata alırsanız indirmek içim PowerShell'e root olarak girip çalıştırabilirsiniz.
+                winget install Kitware.CMake
+
+---------------------*****************************--------------------------------**************
+
+🔥 Sıradaki adım: Programı derleyelim!
+
+build/ klasöründeyken şunu yaz:
+
+cmake --build .
+
+
+Bu:
+
+        main.cpp dosyasını derleyecek
+
+“target” olan Proje1 veya LibtorchEgitim adında .exe üretecek
+
+Bittiğinde konsolda şöyle bir şey görürsün:
+
+        [100%] Built target Proje1
+
+
+Ardından çalıştır:
+
+        ./Proje1.exe
+
+
+VEYA Windows’ta klasik şekilde:
+
+        Proje1.exe
+
+#### 🎉 Beklenen çıktı #### 
+
+CMake altyapisi hazir, Libtorch yolculugu basliyor!
+
+
+Eğer bunu gördüysen:
+
+        CMake kuruldu ✔️
+
+        Build sistemi çalışıyor ✔️
+
+        Çok dosyalı C++ proje için altyapı hazır ✔️
+
+        Bir sonraki adıma geçebiliriz ✔️

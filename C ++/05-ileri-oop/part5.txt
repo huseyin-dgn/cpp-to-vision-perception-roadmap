@@ -1,0 +1,70 @@
+# 📘 DERS 5 – İleri OOP
+
+## 🔵 Bölüm 1 – Operator Overloading (Gelişmiş Operatörler)
+
+- **+=** operatörü  
+- **-=** operatörü  
+- **\*=** operatörü  
+- **/=** operatörü  
+- **Karşılaştırma operatörleri:**  
+  - `<`  
+  - `<=`  
+  - `>`  
+  - `>=`  
+  - `==`  
+  - `!=`
+- “a += b”, “a *= 3”, “a <= b” gibi ifadelerin sınıf içinde nasıl çalıştığı
+---
+
+## 🔵 Bölüm 2 – Assignment Operator (operator=)
+- Kopya ataması nedir?
+- Default operator= neden yetmez?
+- Derin kopya gerektiren durumlar
+- Copy constructor vs operator= farkları
+
+---
+
+## 🔵 Bölüm 3 – Move Constructor & Move Assignment
+- rvalue references (&&)
+- move semantics
+- taşımayla kopyalamadan hızlı performans
+- büyük veri yapılarında kullanım
+
+---
+
+## 🔵 Bölüm 4 – Inheritance (Kalıtım)
+- Base class → derived class
+- protected’ın gerçek anlamı
+- constructor zinciri
+- is-a ilişkisi
+- override için temel hazırlık
+
+---
+
+## 🔵 Bölüm 5 – Polymorphism (Çok Biçimlilik)
+- virtual function
+- override
+- dynamic dispatch
+- pointer/referans ile polymorphism
+
+---
+
+## 🔵 Bölüm 6 – Virtual Destructor
+- polymorphic sınıflarda neden hayati?
+- virtual destructor yoksa oluşan memory leak riskleri
+
+---
+
+## 🔵 Bölüm 7 – Abstract Class & Pure Virtual Function
+- interface gibi davranan sınıflar
+- pure virtual function (= 0)
+- override zorunluluğu
+- framework tasarımlarında kullanım
+
+---
+
+## 🔵 Bölüm 8 – Multiple / Multilevel Inheritance
+- birden fazla sınıftan miras alma
+- diamond problem
+- virtual inheritance çözümü
+

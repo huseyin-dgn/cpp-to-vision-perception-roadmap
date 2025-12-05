@@ -1,0 +1,43 @@
+# 📄 Bölüm 4 – Class, OOP Temelleri, Constructor/Destructor ve Encapsulation
+
+Bu bölümde:
+
+1) **Class ve Object kavramlarını** öğreneceğiz.
+   - class = tanım/kalıp
+   - object = o kalıptan üretilmiş gerçek varlık
+   - class içinde değişken ve fonksiyon tanımlama
+
+2) **Erişim belirleyicilerini (public, private, protected)** işleyeceğiz.
+   - public: dışarıya açık alanlar
+   - private: sınıf dışından erişilemeyen alanlar
+   - protected: kalıtımda kullanılan ara seviye erişim
+
+3) **Constructor (kurucu fonksiyon)** yapısını öğreneceğiz.
+   - nesne oluşturulduğunda otomatik çalışan fonksiyon
+   - parametreli constructor
+   - default constructor
+   - initialization list (başlatma listesi)
+
+4) **Destructor (yıkıcı fonksiyon)** konusunu işleyeceğiz.
+   - nesne yaşam süresi bittiğinde otomatik çalışan fonksiyon
+   - dinamik bellek temizliği ile ilişkisi
+
+5) **this pointer** kavramını göreceğiz.
+   - sınıf içindeki mevcut nesneyi temsil etmesi
+   - constructor ve methodlarda kullanım alanları
+
+6) **Metot (method) yapısını** inceleyeceğiz.
+   - class içi fonksiyon yazımı
+   - nesne üzerinden method çağırma
+   - const method mantığı
+
+7) **Encapsulation (kapsülleme)** kavramını işleyeceğiz.
+   - veriyi gizleme (data hiding)
+   - getter / setter metodları
+   - güvenli sınıf tasarımı
+
+8) **struct vs class farkını** karşılaştıracağız.
+   - default erişim seviyeleri
+   - modern C++’ta pratik kullanım ayrımları
+
+Bu bölüm tamamlandığında C++ OOP’nin temel iskeletini kurmuş olacağız.
