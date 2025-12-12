@@ -175,3 +175,7 @@ Bu akış şeması, 12-perception-node bölümünde geliştirilen projelerin tem
 Bu repo, C++ temellerinden başlayarak gerçek zamanlı algılama sistemlerinin çekirdek tasarımına uzanan tam kapsamlı bir Perception Roadmap sunar.
 Her bölüm, sayısal olarak tanımlanmış örnekler ve projelerle gerçek mühendislik pratiğini öğretir.
 C++ → OpenCV → LibTorch → PerceptionNode zincirini uçtan uca görmek isteyenler için referans niteliğinde bir çalışmadır.
+
+
+Pair Extraordinaire test contribution
+
